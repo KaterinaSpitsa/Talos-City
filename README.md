@@ -216,7 +216,10 @@ Talos City: Η Πόλη που Φροντίζει
  • σύνδεση παρελθόντος–παρόντος–τεχνολογίας
 
 
-Βιβλιογραφία (APA 7)
+
+Βιβλιογραφία 
+
+
 Bers, M. U. (2018). Coding as a playground: Programming and computational thinking in the early childhood classroom. Routledge.
 Europeana. (2022). Teaching with Europeana. https://www.europeana.eu
 Hirsh-Pasek, K., Golinkoff, R. M., Berk, L., & Singer, D. (2009). A mandate for playful learning in preschool. Oxford University Press.
